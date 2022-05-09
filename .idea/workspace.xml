@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df2cc0ef-0fab-46bc-b442-5f8342350353" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25XWDLFfii4JCAEAtcKHbky85jH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\MarketProject\market_frontend\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\MarketProject\market_frontend\src\view\customer\layout\menu" />
+      <recent name="D:\Project\MarketProject\market_frontend\src\view\customer\layout\header" />
+      <recent name="D:\Project\MarketProject\market_frontend\src\view\admin\layout" />
+      <recent name="D:\Project\MarketProject\market_frontend\src\view\admin\page" />
+      <recent name="D:\Project\MarketProject\market_frontend\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FormAddCategory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/view/admin/page/category/FormAddCategory.js" working-dir="$PROJECT_DIR$/src/view/admin/page/category">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.FormAddCategory.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df2cc0ef-0fab-46bc-b442-5f8342350353" name="Changes" comment="" />
+      <created>1645673791538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645673791538</updated>
+      <workItem from="1645673792663" duration="134000" />
+      <workItem from="1645673942653" duration="5244000" />
+      <workItem from="1645710187870" duration="215000" />
+      <workItem from="1646108179705" duration="7927000" />
+      <workItem from="1646204285019" duration="13553000" />
+      <workItem from="1646277177637" duration="1278000" />
+      <workItem from="1646283588648" duration="6636000" />
+      <workItem from="1646292769504" duration="779000" />
+      <workItem from="1646303968177" duration="2181000" />
+      <workItem from="1646382316407" duration="6030000" />
+      <workItem from="1646411998870" duration="5377000" />
+      <workItem from="1646479919974" duration="2396000" />
+      <workItem from="1646721091689" duration="9217000" />
+      <workItem from="1647111062492" duration="1879000" />
+      <workItem from="1647259111368" duration="633000" />
+      <workItem from="1647304193710" duration="1538000" />
+      <workItem from="1647751399439" duration="11189000" />
+      <workItem from="1648002856158" duration="15334000" />
+      <workItem from="1648111283276" duration="1299000" />
+      <workItem from="1648196691612" duration="5006000" />
+      <workItem from="1648440847928" duration="698000" />
+      <workItem from="1648444747906" duration="5784000" />
+      <workItem from="1648526946941" duration="3603000" />
+      <workItem from="1648531854508" duration="1127000" />
+      <workItem from="1648699127347" duration="597000" />
+      <workItem from="1648989983513" duration="3395000" />
+      <workItem from="1649075188326" duration="3479000" />
+      <workItem from="1651988338389" duration="5353000" />
+      <workItem from="1652026864799" duration="759000" />
+      <workItem from="1652028740659" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
