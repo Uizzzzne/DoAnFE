@@ -13,10 +13,7 @@ class MainCustomer extends Component {
             <>
                 <Header/>
                 <main className="main">
-
                     <HomeProductRow/>
-
-
                 </main>
                 <Footer/>
             </>
